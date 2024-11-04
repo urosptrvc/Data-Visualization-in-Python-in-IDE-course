@@ -16,5 +16,5 @@ This project will guide you through creating a bar chart showing the count of ga
 Follow each folder's instructions for completing the project step-by-step.
 To launch test use command
    ```bash
-   git clone python -m pytest -v test_plotting.py
+   python -m pytest -v test_plotting.py
 
