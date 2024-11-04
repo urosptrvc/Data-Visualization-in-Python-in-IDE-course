@@ -14,3 +14,6 @@ This project will guide you through creating a bar chart showing the count of ga
 4. Customization: Style the chart to match the example.
 
 Follow each folder's instructions for completing the project step-by-step.
+To launch test use command
+``bash
+python -m pytest -v test_plotting.py
